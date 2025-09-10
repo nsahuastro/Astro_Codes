@@ -1,7 +1,7 @@
 """
 Created on Wed Sep 27 15:28:38 2023
 
-@author: chatgpt and @nandini
+@author: @nandini
 """
 
 import numpy as np
